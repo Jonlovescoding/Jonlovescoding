@@ -4,7 +4,6 @@
 
 [![Professional in the software industry. ](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f4bb&text=Professional%2520in%2520the%2520software%2520industry.%2520)](https://pimp-my-readme.webapp.io)
 
-*I’m currently working on
 📫 How to reach me: jonlovescoding@outlook.com
 😄 Pronouns: he/him
 
